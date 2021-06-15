@@ -1,0 +1,4 @@
+name: SpigotToolingExample
+version: ${version}
+main: com.github.yannicklamprecht.spigot.tooling.example.spigottoolingexample.SpigotToolingExample
+api-version: 1.17
