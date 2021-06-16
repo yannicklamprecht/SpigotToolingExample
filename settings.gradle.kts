@@ -7,7 +7,7 @@ include("app")
 
 pluginManagement {
     repositories {
-        // mavenLocal()
+        mavenLocal()
         maven {
             name = "eldonexus"
             // url = uri("https://eldonexus.de/repository/maven-snapshots/")
